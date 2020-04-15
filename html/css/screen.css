@@ -46,7 +46,7 @@ body {
 	line-height: 1.1em;
 	text-align:left;
 	padding-top:10px;
-	width:680px;
+	width:auto;
 }
 
 #H_billboard {
@@ -54,7 +54,7 @@ body {
 	border-bottom:1px solid #ccc;
 	min-height: 180px;
 	height:auto !important; height: 180px; /*ie6 min-height 'fast-hack' */
-	width:680px;
+	width:auto;
 }
 #H_billboardHome {
 	margin:0 0 10px 0;
@@ -221,7 +221,7 @@ body {
 
 
 #H_content {
-	width:660px;
+	width:auto;
 	line-height:130%;
 	padding:0 10px 10px 10px;
 }
